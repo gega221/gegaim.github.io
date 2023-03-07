@@ -1,0 +1,13 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-nino-mtavruli/css/bpg-nino-mtavruli.min.css");
+.text{
+    font-size: 45px;
+    color: blue;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}
+.img1{
+    width: 500px;
+}
+.text1{
+    font-size: 25px;
+    font-family: "BPG Nino Mtavruli", sans-serif;
+}

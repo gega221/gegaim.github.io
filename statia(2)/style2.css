@@ -1,0 +1,18 @@
+body{
+    background: url('background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 26px;
+    color: lime;
+}
+.text1{
+    font-family: 'Tilt Neon', cursive;
+    font-size: 50px;
+    color: blue;
+}
+.img1{
+    width: 500px;
+}
